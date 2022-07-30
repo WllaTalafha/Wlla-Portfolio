@@ -1,115 +1,110 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "العربية",
+      "description": "👋 مرحبا اسمي ولاء طلافحه درست هندسة الإلكترونيات والان أدرس تطوير البرمجيات 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "نبذه",
+        "projects": "مشاريع",
+        "skills": "مهارات",
+        "experience": "خبرات"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "مطعم",
+        "startDate": "2022",
+        "description": "html,JavaScript, css تطبيق مطعم يعرض نسبة انواع الماكولات في المنيو",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Restaurant/res1.png",
+          "images/portfolio/Restaurant/res2.png",
+          "images/portfolio/Restaurant/res3.png",
+          "images/portfolio/Restaurant/res4.png"
         ],
-        "url": "",
+        "url": "https://github.com/WllaTalafha/Restaurant",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain-wordmark colored",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
+            "class": "devicon-javascript-plain colored",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "HR",
+        "startDate": "2022",
+        "description": "برنامج HR  HTML, css,and JavaScript. :)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/HR/HR1.png",
+          "images/portfolio/HR/HR2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/WllaTalafha/HR-management-system",
+
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain-wordmark colored",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "حيوانات لها قرون",
+        "startDate": "2022",
+        "description": "تطبيق يعرض حيوانات ذات قرون يمكن البحث حسب عدد القرون html,JavaScript, css",
+        "images": [
+          "images/portfolio/hornedAnimal/animal1.png",
+          "images/portfolio/hornedAnimal/animal2.png",
+          "images/portfolio/hornedAnimal/animal3.png",
+          "images/portfolio/hornedAnimal/animal4.png"
+        ],
+        "url": "https://github.com/fawzi-shiyyab19/Chocolate-Pizza",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain-wordmark colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain-wordmark colored",
+            "name": "CSS"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "LTUC",
+        "title": "Full-stack Developer",
+        "years": "06.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5, Css",
+          "Node.js",
+          "git and gitHub",
+          "Wireframe",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Netlify",
+          "CDN Libraries"
         ]
       }
     ]
